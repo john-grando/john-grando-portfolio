@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Tex documents
+source/*
+Images/*
+CapstoneDocuments/*.aux
+CapstoneDocuments/*.log
+CapstoneDocuments/*.out
+CapstoneDocuments/*.gz
+CapstoneDocuments/*.toc

@@ -29,8 +29,11 @@ This report is from the very first course I took in my Master's program.  While 
 Link:
 I have somewhat of a hobby, albeit very limited in time and scope, of tracking and evaluating NHL player data.  In this project I decided to put some of that information to the test and try to create a model that accurately predicted player salaries based on aggregated performance data from a popular website. Note, this report was prepared as part of a 'Data Acquisition and Management' course which focused on pulling, cleaning, parsing, and using data.  Therefore, there is only a limited amount of model evaluation.
 
-#### New York City Energy Consumption Visualized - DATA608 - Needs work - Needs to be hosted - https://pages.github.com/
-Link:
+#### New York City Energy Consumption Visualized - DATA608 - Needs work - Needs to be hosted
+Link: https://john-grando.github.io/  
+This project was created in an effort to showcase some programming and visualization skills I acquired.  It is built using HTML, CSS, Javascript (d3.js), and the Plotly graphing package.  While it may be somewhat inefficient and slow to present the data in this manner, the purpose was to create a solution from scratch, rather than use a third-party source (e.g. Tableau, Spotfire, etc.).  
 
 #### Building Consumption Energy Prediction - Capstone project
-Link:
+Full Report Link:
+Summary Link:
+This is a comprehensive report that explores and transforms a set of survey questions about commercial building characteristics, extracts the most impactful features pertaining to electrical and natural gas consumption, and uses those features to create a deep feed-forward neural network prediction algorithm for each fuel source.
