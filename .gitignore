@@ -104,8 +104,7 @@ venv.bak/
 .mypy_cache/
 
 #Tex documents
-source/*
-Images/*
+Source/*
 CapstoneDocuments/*.aux
 CapstoneDocuments/*.log
 CapstoneDocuments/*.out
