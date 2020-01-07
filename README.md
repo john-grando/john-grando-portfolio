@@ -22,13 +22,6 @@ Summary Link: [Capstone Summary Report](https://github.com/john-grando/john-gran
 This is a comprehensive report that explores and transforms a set of survey questions about commercial building characteristics, extracts the most impactful features pertaining to electrical and natural gas consumption, and uses those features to create a deep feed-forward neural network prediction algorithm for each fuel source.  
 
 ---  
-#### Shiny App  
-Link: https://john-grando.shinyapps.io/data602-assignment4/  
-
----  
-The R programming language has a package, called [Shiny](https://shiny.rstudio.com/), which makes it easy to build interactive web applications.  This example allows users to enter NASDAQ stock names and view various features of the daily prices. Please note, since the creation of this project, Google has deprecated its access to historical stock prices via URL requests.  In order to keep a working example, I have manually downloaded Google's stock prices (GOOG) as a CSV file and read the file in locally.  
-
----  
 #### New York City Energy Consumption Visualized  
 Link: https://john-grando.github.io/  
 
