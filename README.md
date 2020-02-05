@@ -15,7 +15,7 @@ I did not start out as a data scientist.  I earned my Bachelor of Science degree
 
 ---  
 #### Building Energy Consumption Prediction - Capstone project  
-Full Report Link: [Capstone Full Report](https://github.com/john-grando/john-grando-portfolio/blob/master/CapstoneDocuments/CapstoneFullReport.pdf)  
+Full Report Link (Warning - This is a very large file and takes a while to load in browser): [Capstone Full Report](https://github.com/john-grando/john-grando-portfolio/blob/master/CapstoneDocuments/CapstoneFullReport.pdf)  
 Summary Link: [Capstone Summary Report](https://github.com/john-grando/john-grando-portfolio/blob/master/CapstoneDocuments/CapstoneSummary.pdf)  
 
 ---  
