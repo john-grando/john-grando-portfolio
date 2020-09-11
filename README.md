@@ -2,7 +2,7 @@
 ## Data Science Portfolio
 
 ### About Me
-Hello visitor!  Let me take this time to tell you about myself.  I live in Allendale, NJ with my wife and three children.  Up until recently, I have spent most of my free time earning my Master of Science Degree in Data Science from [CUNY](https://sps.cuny.edu/academics/graduate/master-science-data-science-ms).  However, I was still able to keep a few hobbies, such as training in Brazilian Jiu Jitsu and watching hockey (I love to keep up with the advanced statistics).  
+Hello visitor!  Let me take this time to tell you about myself.  I'm a lifelong student that lives in Allendale, NJ with my wife and three children.  Up until recently, I have spent most of my free time earning my Master of Science Degree in Data Science from [CUNY](https://sps.cuny.edu/academics/graduate/master-science-data-science-ms).  However, I was still able to keep a few hobbies, such as training in Brazilian Jiu Jitsu and watching hockey (I love to keep up with the advanced statistics).  
 
 I grew up in Pueblo, CO where I was very active in sports and finished high school as a state runner-up (Junior year) and state champion (Senior year) in wrestling.  These achievements, along with my grades, made it possible for me to attend Columbia University, which was a great opportunity even though it was quite a distance away from my home at the time.  I met my wife in college and ultimately ended up staying in the New York City area to build our life together.  
 
