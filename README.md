@@ -29,8 +29,6 @@ This is a comprehensive report that explores and transforms a set of survey ques
 [Full Report](https://github.com/john-grando/john-grando-portfolio/blob/master/CapstoneDocuments/CapstoneFullReport.pdf)  
 [Summary](https://github.com/john-grando/john-grando-portfolio/blob/master/CapstoneDocuments/CapstoneSummary.pdf)  
 
-
-
 ---  
 #### New York City Energy Consumption Visualized  
 
