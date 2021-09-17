@@ -2,12 +2,12 @@
 ## Data Science Portfolio
 
 ### About Me
-I'm a lifelong student who is passionate about data science. I have over 6 years of experience performing data analyses, applying transformations, and building machine learning models to provide business intelligence solutions. Additionally, I have been working in the commercial building energy and sustainability sector.
+I'm a lifelong student who is passionate about data science and sustainability. I have over 6 years of experience performing data engineering, data analysis, and building machine learning models to provide business intelligence solutions. Additionally, I have been working in the commercial building energy and sustainability sector for over 11 years and I am passionate about developing resources that contribute to more energy efficient designs.
 
 ---  
 #### pyExpandObjects
 ---
-I developed, tested, and currently maintain the [pyExpandObjects](https://github.com/john-grando/pyExpandObjects) repository, which acts as a pre-processor that maps simplified JSON template objects into complex components for building energy modeling simulations.
+I developed, tested, and currently maintain the [pyExpandObjects](https://github.com/john-grando/pyExpandObjects) repository, which acts as a pre-processor program that maps simplified JSON template objects into complex components for building energy modeling simulations ([EnergyPlus](https://github.com/NREL/EnergyPlus)).
 
 ---  
 #### EIA Data Analysis and Prediction
