@@ -5,13 +5,19 @@
 I'm a lifelong student who is passionate about data science. I have over 6 years of experience performing data analyses, applying transformations, and building machine learning models to provide business intelligence solutions. Additionally, I have been working in the commercial building energy and sustainability sector.
 
 ---  
+#### pyExpandObjects
+---
+I developed, tested, and currently maintain the [pyExpandObjects](https://github.com/john-grando/pyExpandObjects) repository, which acts as a pre-processor that maps simplified JSON template objects into complex components for building energy modeling simulations.
+
+---  
 #### EIA Data Analysis and Prediction
 ---  
-I am currently developing tools to extract information from the U.S. Energy Information Administration (EIA) [bulk download feature](https://www.eia.gov/opendata/bulkfiles.php), and make some initial predictions to gain insight.  
+I am in the process of developing tools to extract information from the U.S. Energy Information Administration (EIA) [bulk download feature](https://www.eia.gov/opendata/bulkfiles.php), and make some initial predictions to gain insight.  
 
 [ETL Details - PySpark](https://github.com/john-grando/eia-data-analysis/tree/master/app/PreProcess)  
-[ETL Output Analysis](https://github.com/john-grando/eia-data-analysis/blob/master/app/Notebooks/total_energy.ipynb)  
-[Net Generation Analysis](https://john-grando.github.io/EIADataPages/total_energy_prediction.html)
+[ETL Output Analysis](https://john-grando.github.io/EIADataPages/total_energy_check.html)  
+[Coal Net Generation Analysis](https://john-grando.github.io/EIADataPages/total_energy_prediction.html)  
+[Electricity Net Generation Data Exploration](https://john-grando.github.io/EIADataPages/electricity_net_generation_summary.html)
 
 ---
 #### Modification of the Time Series Cross Validation function (tscv) in the forecast R package
